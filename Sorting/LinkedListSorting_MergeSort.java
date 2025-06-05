@@ -1,3 +1,8 @@
+/*
+For even nodes in LinkedList the fast pointer will end at null
+For odd nodes in LinkedList the fast.next pointer will end at null
+*/
+
 class Main {
     public static void main(String[] args) {
         
